@@ -1,0 +1,15 @@
+C:\Users\Adebayo Iloh\Documents\Visual Studio 2015\Projects\Covid-19 Analyzer\Covid-19 Analyzer\bin\Debug\Covid-19 Analyzer.exe.config
+C:\Users\Adebayo Iloh\Documents\Visual Studio 2015\Projects\Covid-19 Analyzer\Covid-19 Analyzer\bin\Debug\Covid-19 Analyzer.exe
+C:\Users\Adebayo Iloh\Documents\Visual Studio 2015\Projects\Covid-19 Analyzer\Covid-19 Analyzer\bin\Debug\Covid-19 Analyzer.pdb
+C:\Users\Adebayo Iloh\Documents\Visual Studio 2015\Projects\Covid-19 Analyzer\Covid-19 Analyzer\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Adebayo Iloh\Documents\Visual Studio 2015\Projects\Covid-19 Analyzer\Covid-19 Analyzer\obj\Debug\Covid-19 Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Adebayo Iloh\Documents\Visual Studio 2015\Projects\Covid-19 Analyzer\Covid-19 Analyzer\obj\Debug\Covid_19_Analyzer.Dashboard.resources
+C:\Users\Adebayo Iloh\Documents\Visual Studio 2015\Projects\Covid-19 Analyzer\Covid-19 Analyzer\obj\Debug\Covid_19_Analyzer.Properties.Resources.resources
+C:\Users\Adebayo Iloh\Documents\Visual Studio 2015\Projects\Covid-19 Analyzer\Covid-19 Analyzer\obj\Debug\Covid_19_Analyzer.Select_Country.resources
+C:\Users\Adebayo Iloh\Documents\Visual Studio 2015\Projects\Covid-19 Analyzer\Covid-19 Analyzer\obj\Debug\Covid-19 Analyzer.csproj.GenerateResource.Cache
+C:\Users\Adebayo Iloh\Documents\Visual Studio 2015\Projects\Covid-19 Analyzer\Covid-19 Analyzer\obj\Debug\Covid-19 Analyzer.exe
+C:\Users\Adebayo Iloh\Documents\Visual Studio 2015\Projects\Covid-19 Analyzer\Covid-19 Analyzer\obj\Debug\Covid-19 Analyzer.pdb
+C:\Users\Adebayo Iloh\Documents\Visual Studio 2015\Projects\Covid-19 Analyzer\Covid-19 Analyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adebayo Iloh\Documents\Visual Studio 2015\Projects\Covid-19 Analyzer\Covid-19 Analyzer\bin\Debug\RestSharp.dll
+C:\Users\Adebayo Iloh\Documents\Visual Studio 2015\Projects\Covid-19 Analyzer\Covid-19 Analyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adebayo Iloh\Documents\Visual Studio 2015\Projects\Covid-19 Analyzer\Covid-19 Analyzer\bin\Debug\RestSharp.xml
